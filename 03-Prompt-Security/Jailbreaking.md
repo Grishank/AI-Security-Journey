@@ -1,9 +1,4 @@
 # 🔓 Jailbreaking — TryHackMe Room
-
-<p align="center">
-  <img src="https://github.com/Grishank/AI-Security-Journey/blob/main/assets/Jailbreaking-banner.png?raw=true" alt="Jailbreaking Banner" width="900"/>
-</p>
-
 ---
 
 **Platform:** TryHackMe  
