@@ -36,4 +36,5 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [RAG Security Fundamentals](./05-Data-Poisoning/RAG-Security-Fundamentals.md)
 - [Data Poisoning in RAG Systems](./05-Data-Poisoning/Data-Poisoning-in-RAG-Systems.md)
 - [Sensitive Information Disclosure](./05-Data-Poisoning/Sensitive-Information-Disclosure.md)
+- [Unindexed](./05-Data-Poisoning/Unindexed.md)
 ---
