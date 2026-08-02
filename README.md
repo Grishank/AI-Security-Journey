@@ -30,5 +30,8 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [Supply Chain Attack Vectors](./04-AI-Supply-Chain-Security/Supply-Chain-Attack-Vectors.md)
 - [Securing the AI Supply Chain](./04-AI-Supply-Chain-Security/Securing-the-AI-Supply-Chain.md)
 - [Payload](./04-AI-Supply-Chain-Security/Payload.md)
+- [Checkpoint](./04-AI-Supply-Chain-Security/Checkpoint.md)
 ---
+## 🔹 05 — Data Poisoning *(Completed)*
+- [RAG Security Fundamentals](./05-Data-Poisoning/RAG-Security-Fundamentals.md)
 ---
