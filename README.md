@@ -34,4 +34,5 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 ---
 ## 🔹 05 — Data Poisoning *(Completed)*
 - [RAG Security Fundamentals](./05-Data-Poisoning/RAG-Security-Fundamentals.md)
+- [Data Poisoning in RAG Systems](./05-Data-Poisoning/Data-Poisoning-in-RAG-Systems.md)
 ---
