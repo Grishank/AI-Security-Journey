@@ -1,9 +1,5 @@
 # 🔐 Prompt Injection — TryHackMe Room
 
-<p align="center">
-  <img src="https://github.com/Grishank/AI-Security-Journey/blob/main/assets/Prompt-Injection-banner.png?raw=true" alt="Prompt Injection Banner" width="900"/>
-</p>
-
 ---
 
 **Platform:** TryHackMe  
