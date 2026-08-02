@@ -26,5 +26,5 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [White Rabbit](./03-Prompt-Security/White-Rabbit.md)
 ---
 ## 🔹 04 — AI Supply Chain Security *(Completed)*
-- [Understanding AI Supply Chains](./AI-Supply-Chain-Security/Understanding-AI-Supply-Chains.md)
+- [Understanding AI Supply Chains](./04-AI-Supply-Chain-Security/Understanding-AI-Supply-Chains.md)
 ---
