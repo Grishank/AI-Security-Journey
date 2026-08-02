@@ -23,5 +23,6 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [Jailbreaking](./03-Prompt-Security/Jailbreaking.md)
 - [Prompt Defence](./03-Prompt-Security/Prompt-Defence.md)
 - [LLMborghini](./03-Prompt-Security/LLMborghini.md)
+- [White Rabbit](./03-Prompt-Security/White-Rabbit.md)
 - 
 ---
