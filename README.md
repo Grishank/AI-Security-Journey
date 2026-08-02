@@ -39,3 +39,10 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [UnIndexed](./05-Data-Poisoning/UnIndexed.md)
 - [Lockdown](./05-Data-Poisoning/Lockdown.md)
 ---
+# 📜 Certification
+
+<p align="center">
+  <img src="https://github.com/Grishank/AI-Security-Journey/blob/main/assets/THM-EGMDKQEWWF-1.png?raw=true" alt="Final Certificate" width="900"/>
+</p>
+
+**TryHackMe — SOC Level 1 Learning Path**
