@@ -20,5 +20,6 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 ---
 ## 🔹 03 — Prompt Security *(Completed)*
 - [Prompt Injection](./03-Prompt-Security/Prompt-Injection.md)
+- [Jailbreaking](./03-Prompt-Security/Jailbreaking.md)
 - 
 ---
