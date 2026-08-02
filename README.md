@@ -28,4 +28,6 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 ## 🔹 04 — AI Supply Chain Security *(Completed)*
 - [Understanding AI Supply Chains](./04-AI-Supply-Chain-Security/Understanding-AI-Supply-Chains.md)
 - [Supply Chain Attack Vectors](./04-AI-Supply-Chain-Security/Supply-Chain-Attack-Vectors.md)
+- [Securing the AI Supply Chain](./04-AI-Supply-Chain-Security/Securing-the-AI-Supply-Chain.md)
+---
 ---
