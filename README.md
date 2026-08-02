@@ -24,5 +24,7 @@ Documenting my AI Security journey through the TryHackMe AI Security Learning Pa
 - [Prompt Defence](./03-Prompt-Security/Prompt-Defence.md)
 - [LLMborghini](./03-Prompt-Security/LLMborghini.md)
 - [White Rabbit](./03-Prompt-Security/White-Rabbit.md)
-- 
+---
+## 🔹 03 — AI Supply Chain Security *(Completed)*
+- [Understanding AI Supply Chains](./AI-Supply-Chain-Security/Understanding-AI-Supply-Chains.md)
 ---
