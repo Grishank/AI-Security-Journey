@@ -227,9 +227,3 @@ After completing this path, I plan to continue learning:
 - AI Security Research
 
 ---
-
-# ⭐ Support
-
-If you found this repository helpful, consider giving it a ⭐ on GitHub.
-
-It motivates me to continue documenting my cybersecurity and AI security learning journey.
