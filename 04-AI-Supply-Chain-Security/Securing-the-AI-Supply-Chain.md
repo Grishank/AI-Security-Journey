@@ -1,5 +1,4 @@
 # 🛡️ Securing the AI Supply Chain — TryHackMe Room
----
 
 **Platform:** TryHackMe  
 **Path:** AI Security  
